@@ -518,8 +518,5 @@ public class GUI extends JFrame {
 	}
 	return false;
 	
-	}
-	
-	
+	}	
 }
-
